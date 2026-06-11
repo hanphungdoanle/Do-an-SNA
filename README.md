@@ -43,8 +43,7 @@ SNA-Amazon-CoPurchasing/
 │   ├── 02_centrality_analysis.ipynb
 │   ├── 03_community_detection.ipynb
 │   ├── 04_link_prediction.ipynb
-│   ├── 05_live_demo.ipynb
-│   └── SNA_Nhom5_Final_SourceCode.ipynb
+│   └── 05_live_demo.ipynb
 │
 └── outputs/
     └── figures/
