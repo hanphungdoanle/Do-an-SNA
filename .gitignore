@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw downloaded dataset
+com-amazon.ungraph.txt
+com-amazon.ungraph.txt.gz
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Large/temporary outputs
+*.tmp
+*.log
